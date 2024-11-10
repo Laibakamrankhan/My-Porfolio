@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { DiVim } from 'react-icons/di'
+
 interface propsType{
     tittle: string
     desc: string
